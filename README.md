@@ -9,6 +9,10 @@ https://user-images.githubusercontent.com/86119205/178375036-1a46d243-023e-4198-
 ## Description
 Float-Chess is a chess variant where you can reach chess positions which aren't normally reached in a chess game. Once reached, you can play the position on the floatboard to sharpen your game. It also tremendously helps the players to get better at analyzing positions.
 
+### Dependencies
+
+ * "pygame": "^1.9.6"
+
 ## Getting Started
 
 ### Installing
@@ -32,3 +36,10 @@ python main.py
 Float Chess Website: 
 
 ![alt text](https://i.ibb.co/3s1nJjW/Screenshot-2022-07-12-050548.jpg)
+
+
+
+
+## Relevant Links
+
+* [Pygame Download]([https://www.sih.gov.in/](https://www.pygame.org/download.shtml))
