@@ -42,4 +42,4 @@ Float Chess Website:
 
 ## Relevant Links
 
-* [Pygame Download]([https://www.sih.gov.in/](https://www.pygame.org/download.shtml))
+* [Pygame Download](https://www.pygame.org/download.shtml)
